@@ -6,8 +6,6 @@ Hello All, Welcome to __BIBLE OF TRERRAFORM MODULES__ 👋
 
 # GET-IN-TOUCH/CONNECT:-
 
--  [Anand-Arbone](mailto:anand.arbone@gmail.com)
--  [Arindam-Mitra](mailto:arindam0310018@gmail.com)
 
 # GITHUB STATS:-
 
