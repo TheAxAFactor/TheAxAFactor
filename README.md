@@ -1,6 +1,6 @@
 # WHOAMI:-
 
-Hello All, Welcome to __BIBLE OF TRERRAFORM MODULES__ 👋
+Hello All, Welcome to __BHAGWAT GITA OF TRERRAFORM MODULES__ 👋
 
 ![](https://komarev.com/ghpvc/?username=TheAxAFactor&style=for-the-badge&color=green)
 
